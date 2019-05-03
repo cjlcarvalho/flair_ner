@@ -1,0 +1,3 @@
+__label__Label3 Label3 2 1
+__label__Label2 Label2 ao ataque
+__label__Label1 Agora é a vez da Label 1

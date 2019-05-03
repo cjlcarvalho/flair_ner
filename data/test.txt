@@ -1,0 +1,4 @@
+__label__Label1 Label1 Texto que devo identificar através da Label 1
+__label__Label2 Testando um outro tipo de Label chamado Label 2
+__label__Label1 Label1 Outro texto que devo identificar com Lbl 1
+__label__Label1 A Label1 é um tipo de Label

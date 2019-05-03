@@ -1,0 +1,7 @@
+__label__Label1 Label 1 Alguma coisa interessante
+__label__Label1 Label-1 Parece que sim
+__label__Label2 Label 2 Apenas testando algo
+__label__Label3 Label3éoutralabel
+__label__Label2 E se eu colocar Label 2 no meio?
+__label__Label2 2 Label e se for ao contrário?
+__label__Label1 Label-1 Label 1 Lbl1 1-Label
